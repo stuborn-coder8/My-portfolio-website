@@ -57,7 +57,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am an experienced software developer with over five years experience in the field. My expertise includes full-stack web development and mobile application development using
+        I am a passionate Front End developer with over Masters degree in Computer Applications. I had woprked on some projects to showcase my skills. My expertise includes Front-end web development and learning MERN stack as well. I am looking for new opportunities in this field itself.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

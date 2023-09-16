@@ -13,7 +13,7 @@ const Hero = (props) => (
 
       </SectionTitle>
       <SectionText>
-        I am a Full Stack Web Developer with experience in building web applications using JavaScript and Python.
+        I am a Front End Web Developer with experience in  building web applications using JavaScript and Python.
 
       </SectionText>
       <Button onClick={()=>window.location="https://google.com"}>Learn more</Button>
